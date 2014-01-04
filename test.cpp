@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
 
-class testowa
+class test
 {
-
+public:
 }
 #define test 250
 #define lol 10
