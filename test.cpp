@@ -8,3 +8,5 @@ int main()
 
 retunr 0;
 }
+
+#define lubudubu 32
